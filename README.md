@@ -38,3 +38,5 @@ ClearCross is a completely **free-to-use** external crosshair overlay applicatio
 This software is **completely free to use** and share.
 
 **Do NOT** sell this software, claim ownership, or profit from its distribution. ClearCross is intended to be a tool, accessible to everyone, at no cost.
+
+**© Copyright 2025 - @Clearfall**
